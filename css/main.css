@@ -1,25 +1,3 @@
-.page-header .panel.header {
-    background: #f2f2f2 !important;
-}
-
-.page-footer .footer_sec h3 {
-    font-size: 1.8rem !important;
-    ;
-}
-
-.container.no_pad {
-    margin-bottom: 14px !important;
-}
-
-.page-wrapper {
-    padding-top: 2px;
-     !important;
-}
-
-.breadcrumbs {
-    position: relative !important;
-    bottom: 10px !important;
-}
 
 body {
     font-family: 'Open Sans', sans-serif;
@@ -137,7 +115,7 @@ p {
 }
 
 h3 {
-    margin-top: 10px !important;
+    margin-top: 10px;
 }
 
 .western-union-step p {
@@ -263,7 +241,7 @@ h3 {
 
 .plusminus {
     min-width: 35px;
-    border: 1px solid black !important;
+    border: 1px solid black;
     float: left;
     margin-right: 4%;
     color: #333333;
@@ -358,8 +336,8 @@ sup {
     }
 
     .remove-mob-padding {
-        padding-left: 0px !important;
-        padding-right: 0px !important;
+        padding-left: 0px ;
+        padding-right: 0px;
     }
 
     .western-union-step p {
@@ -394,8 +372,8 @@ sup {
 
     hr {
         border-top: 1px solid #337aab;
-        margin-top: 0px !important;
-        margin-bottom: 0px !important;
+        margin-top: 0px ;
+        margin-bottom: 0px;
     }
 
     .section-mob-width {
@@ -467,13 +445,13 @@ sup {
 
     .faq-mob-section {
         margin-left: 0px;
-        margin-right: 0px !important;
+        margin-right: 0px;
     }
 
 
     .faq-grey {
-        padding-left: 0px !important;
-        padding-right: 0x !important;
+        padding-left: 0px;
+        padding-right: 0px;
     }
 
     .button-margin {
@@ -492,12 +470,6 @@ sup {
 
     .faq-two {
         background-color: #f0f0f0;
-    }
-
-    .page-main {
-        padding-left: 0px !important;
-        padding-right: 0px !important;
-        overflow: hidden;
     }
 
     .grey-section2-button {
@@ -559,7 +531,7 @@ sup {
     .western-union-step {
         display: block;
         height: 195px;
-        margin-left: 6.53333333% !important;
+        margin-left: 6.53333333%;
         border-radius: 200px;
         font-size: 11px;
         padding-top: 0px;
